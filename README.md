@@ -30,8 +30,8 @@ You can install these dependencies using pip:
 - Dependencies:Ensure you have all required libraries installed by running the pip commands mentioned above.
 
 ## Usage
-1-start speech to text folder and record a question the question will be stored into the a txt file called latest_transcript.txt
-2-head to python code and start and run the code the ai bot will respond to the answer over voice 
+- start speech to text folder and record a question the question will be stored into the a txt file called latest_transcript.txt
+- head to python code and start and run the code the ai bot will respond to the answer over voice 
 
 
 ## code overview 
