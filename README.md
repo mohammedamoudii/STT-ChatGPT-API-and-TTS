@@ -1,7 +1,7 @@
 # STT-ChatGPT-API-and-TTS
 
 
-## from the previous of txt to speech it got advanced and upated to store the last data in the database into a txt from that txt file it will read question into the new python for chatbot in it will get respond from the chatgpt altho it does not get the data directly from the database but that another solution for it 
+from the previous of txt to speech it got advanced and upated to store the last data in the database into a txt from that txt file it will read question into the new python for chatbot in it will get respond from the chatgpt altho it does not get the data directly from the database but that another solution for it 
 
 
 ## folders
