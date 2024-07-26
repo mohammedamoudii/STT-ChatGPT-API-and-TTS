@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Speech to Text</title>
+</head>
+<body>
+    <button id="startBtn">Start Recording</button>
+    <div id="output"></div>
+    <form id="speechForm" method="post" action="save_speech.php">
+        <input type="hidden" id="finalTranscript" name="finalTranscript">
+        <button type="submit" id="saveBtn" style="display:none;">Save</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
