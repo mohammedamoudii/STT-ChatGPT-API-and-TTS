@@ -35,7 +35,7 @@ You can install these dependencies using pip:
 
 
 ## code overview 
-= send_message(message_log): Sends the conversation history to the OpenAI API and retrieves the assistant's response.
+- `send_message(message_log): Sends the conversation history to the OpenAI API and retrieves the assistant's response.`
 
 - `text_to_speech(text): Converts the assistant's response to speech and plays it using pygame.`
 
