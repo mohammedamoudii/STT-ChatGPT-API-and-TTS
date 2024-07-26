@@ -8,7 +8,7 @@ from the previous of txt to speech it got advanced and upated to store the last 
 ### text to speech folder were previously explained but the newest thing that i will save the latest question in the database into the txt file called latest latest_transcript
 ### Chatbot also were previously explained in the github 
 ### lastly also TTS python code where previously explained in the github 
-all these folder and files are merged to work in one code 
+all these folder and files are merged to work together 
 
 
 
